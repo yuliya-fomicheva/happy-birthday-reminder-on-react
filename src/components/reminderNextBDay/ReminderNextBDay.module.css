@@ -1,0 +1,29 @@
+.title {
+	font-weight: 700;
+	font-size: 24px;
+	letter-spacing: 0.3rem;
+
+    margin-bottom: 20px;
+}
+
+.nextBirtdayInfo {
+    font-size: 22px;
+    color: #37352f;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+    margin-bottom: 20px;
+
+}
+
+.nextBirthdayList {
+	padding: 0;
+	padding-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    list-style: none;
+    
+}
+
+

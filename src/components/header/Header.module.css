@@ -1,0 +1,36 @@
+
+.container {
+    width: 890px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.header__wrapper {
+    position: relative;
+	margin-bottom: 50px;
+}
+
+.header__title {
+	padding-top: 30px;
+
+	font-weight: 700;
+	font-size: 42px;
+	letter-spacing: 0.3rem;
+	
+
+}
+
+.header__icon {
+    position: absolute;
+    top: -40px;
+    left: -40px;
+    width: 70px;
+
+}
+
+
+.header__cover{
+    background-color: #f9bf52;
+    width: 100%;
+    min-height: 120px;
+
+}

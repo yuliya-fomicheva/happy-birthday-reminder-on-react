@@ -1,0 +1,60 @@
+.birthday__item {
+	display: block;
+	margin-bottom: 10px;
+	background-color: #eee;
+	padding: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 60px;
+	border-radius: 5px;
+	position: relative;
+}
+
+.birthday__item:hover {
+	opacity: 0.8;
+	color: black;
+}
+
+.birthday__name::before {
+	content: '';
+	background-color: #f9bf51;
+	width: 17px;
+	height: 17px;
+	border-radius: 50%;
+	left: 20px;
+	position: absolute;
+}
+
+/* кнопка удаления */
+.btn_delete {
+	border: none;
+	position: absolute;
+	cursor: pointer;
+	background-color: transparent;
+	right: 30px;
+	top: 20px;
+	width: 20px;
+	height: 20px;
+}
+
+.btn_delete::after,
+.btn_delete::before {
+    content: "";
+    position: absolute;
+    width: 19px;
+    height: 3px;
+    background-color: rgb(145, 145, 145);
+}
+
+.btn_delete::before {
+    transform: rotate(45deg);
+}
+
+.btn_delete::after {
+    transform: rotate(-45deg);
+}
+
+.btn_delete:hover::after,
+.btn_delete:hover::before {
+	background-color: #37352f;
+}

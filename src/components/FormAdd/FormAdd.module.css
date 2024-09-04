@@ -1,0 +1,41 @@
+.title {
+    text-align: center;
+    font-weight: 700;
+	font-size: 24px;
+	letter-spacing: 0.3rem;
+
+}
+
+.addForm {
+    margin: 15px 50px;
+}
+
+.label {
+    font-size: 16px;
+    font-weight: 600;
+
+	letter-spacing: 0.3rem;
+    display: block;
+}
+
+ .input {
+    box-sizing: border-box;
+    width: 300px;
+    padding: 10px 15px;
+    padding-right: 40px;
+    font:inherit;
+    color: #000;
+
+
+    background-color: #fff;
+    border: 2px solid #f9bf51;
+    margin-bottom: 20px;
+   
+} 
+
+.input:focus,
+.input:hover
+.input:active {
+    border-color: #37352f;    
+} 
+
