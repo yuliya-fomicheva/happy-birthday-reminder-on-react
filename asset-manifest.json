@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/happy-birthday-reminder-on-react/static/css/main.0fdc2016.css",
+    "main.js": "/happy-birthday-reminder-on-react/static/js/main.186ef767.js",
+    "static/media/party-popper.svg": "/happy-birthday-reminder-on-react/static/media/party-popper.6224f93774fe533c89660f915759f60c.svg",
+    "index.html": "/happy-birthday-reminder-on-react/index.html",
+    "main.0fdc2016.css.map": "/happy-birthday-reminder-on-react/static/css/main.0fdc2016.css.map",
+    "main.186ef767.js.map": "/happy-birthday-reminder-on-react/static/js/main.186ef767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fdc2016.css",
+    "static/js/main.186ef767.js"
+  ]
+}
