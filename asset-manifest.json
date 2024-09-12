@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b9e0962.css",
+    "main.js": "/static/js/main.b0a8f5f5.js",
+    "static/media/party-popper.svg": "/static/media/party-popper.6224f93774fe533c89660f915759f60c.svg",
+    "index.html": "/index.html",
+    "main.4b9e0962.css.map": "/static/css/main.4b9e0962.css.map",
+    "main.b0a8f5f5.js.map": "/static/js/main.b0a8f5f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b9e0962.css",
+    "static/js/main.b0a8f5f5.js"
+  ]
+}
